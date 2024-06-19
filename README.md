@@ -20,7 +20,7 @@ Welcome to the MTC Typing Competition! This is a custom Tkinter-based applicatio
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository_url>
+    git clone <https://github.com/Mahin200405/MTC-Typing-Competition/tree/main>
     cd <MTC-Typing-Competition>
     ```
 
